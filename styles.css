@@ -1,0 +1,16 @@
+img{
+    width: 100%;
+}
+
+nav ul li{
+    display: inline;
+    margin: auto;
+}
+
+p{
+	font-family: 'Inconsolata', monospace;
+}
+
+h1,h2,h3{
+	font-family: 'Abril Fatface', cursive;
+}
